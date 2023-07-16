@@ -1,0 +1,11 @@
+#para{
+    color: green;
+    position: center;
+    background-color: red;
+}
+
+.aClass{
+    margin: 50px;
+    padding: 100px;
+    background-color: aqua;
+}
