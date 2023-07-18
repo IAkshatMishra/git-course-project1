@@ -1,4 +1,5 @@
 document.getElementById("click").onclick = function(){
     document.getElementById("para").style.color= "yellow";
-    alert("you clicked the button");
+    window.alert("you clicked the button");
 }
+console.log("learn git and github");
